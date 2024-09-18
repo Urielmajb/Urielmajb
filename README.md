@@ -1,9 +1,8 @@
-# *¡Hola! Soy Urielma* 👋
+# *¡Hi! I'm Urielma* 👋
 
-Tu *desarrolladora web de confianza*, *coof* *coof* tambien proxima *Analista de datos* y *apasionada de lo desconocido*. :woman_technologist:	  
-Me defino por ser una persona disciplinada con un gran deseo de aprender, enseñar y orientar en diversas áreas multidisciplinarias. 🤓
+Small web developer, self-taught and disciplined, with a strong desire to learn, teach, and guide in various multidisciplinary fields, always eager to explore new technologies 🤓
 
-Disfruto del *anime y leer mangas*, así como de escuchar música a todas horas y jugar videojuegos. ✨
+I enjoy anime and reading manga, as well as listening to music all the time and playing videogames. ✨
 
 # *Mis stats*  📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Urielmajb&layout=compact)
