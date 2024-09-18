@@ -12,4 +12,3 @@ I enjoy anime and reading manga, as well as listening to music all the time and 
 # *My Stats*  📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Urielmajb&layout=compact)
 
-[![Spotify](nowplaying-nine.vercel.app/api/spotify)](https://open.spotify.com/user/urielmajb)
